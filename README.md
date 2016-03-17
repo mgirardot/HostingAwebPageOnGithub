@@ -1,6 +1,6 @@
 #Hosting a webpage on Github
 
-Some projects of my Data Science projects contain notebooks as html pages. A github repo can store the code of an html page. Here is how to do it from an existing repo
+Some of my Data Science projects contain notebooks as html pages. A github repo can store the code of an html page. Here is how to do it from an existing repo
 
 ###Create an independant branch in the same repo
 
